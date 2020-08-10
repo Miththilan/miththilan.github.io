@@ -26,8 +26,8 @@ function Home() {
          <Helmet>
                   <meta charSet="utf-8" />
                   <title>Home | Nagarasa Miththilan</title>
-                <link rel="canonical" href="http://NMiththilan.com/home" />
-                  <meta name="description" content="Motasim Foad | Home - Product Manager | Project Manager | Software Engineer" />
+                <link rel="canonical" href="http://Miththilan.me/home" />
+                  <meta name="description" content="N Miththilan | Home - Software Engineer" />
          </Helmet>
           <Animate to="1" from="0" attributeName="opacity">
             <Particles

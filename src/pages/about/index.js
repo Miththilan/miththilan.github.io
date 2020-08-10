@@ -23,8 +23,8 @@ class About extends Component {
           <Helmet>
                 <meta charSet="utf-8" />
                 <title>About | Nagarasa Miththilan</title>
-                <link rel="canonical" href="http://NMiththilan.com/about" />
-                <meta name="description" content="Motasim Foad | About - Product Manager | Project Manager | Software Engineer
+                <link rel="canonical" href="http://Miththilan.me/about" />
+                <meta name="description" content="Miththilan | About -  Software Engineer
                 Experienced Project & Product Manager with a demonstrated history of working in computer software industry. 
                 Skilled in leading edge project management, web & software development tools & trends. 
                 Strong computer engineering base with a BSc in Computer Science focused in Computer Software Engineering from BRAC University. 

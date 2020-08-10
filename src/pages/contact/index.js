@@ -24,8 +24,8 @@ class Contact extends React.Component {
         <Helmet>
                 <meta charSet="utf-8" />
                 <title>Contact | N Miththilan</title>
-                <link rel="canonical" href="http://N Miththilan/contact" />
-                <meta name="description" content="Motasim Foad | Contact - Product Manager | Project Manager | Software Engineer" />
+                <link rel="canonical" href="http://Miththilan.me/contact" />
+                <meta name="description" content="N Miththilan | Software Engineer" />
         </Helmet>
         <Animate to="1" from="0" attributeName="opacity">
           <Particles

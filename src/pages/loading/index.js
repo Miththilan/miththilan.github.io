@@ -28,8 +28,8 @@ class Loading extends Component {
          <Helmet>
                 <meta charSet="utf-8" />
                 <title>N Miththilan</title>
-                <link rel="canonical" href="http://NMiththilan.com/" />
-                <meta name="description" content="Motasim Foad - Product Manager | Project Manager | Software Engineer" />
+                <link rel="canonical" href="http://Miththilan.me/" />
+                <meta name="description" content="Miththilan - Photographer | Editor | Software Engineer" />
          </Helmet>
         <div className="Loading-header">
           <PacmanLoader
