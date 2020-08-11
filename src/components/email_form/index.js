@@ -38,20 +38,20 @@ class Email_Form extends React.Component {
     e.preventDefault(); 
     this.setState({ loading: true });   
     
-    const {email, subject, message } = this.state    
+    const {name,email, subject, message } = this.state    
     
     let templateParams = {
-      from_name: email,
-      to_name: 'miththilan3@gmail.com',
+      email: email,
+      name: name,
       subject: subject,
-      message_html: message,
+      message: message,
      }
      
      emailjs.send(
       'gmail',
-      'template_OErNDyFu',
-       templateParams,
-      'user_64rGh5RuHtigw7paS8NsX'
+      'youtube_template',
+      templateParams,
+      'user_kXChBmVCN0BLHvY8pcehV'
      )
      .then((result) => {
         this.handleShow();
