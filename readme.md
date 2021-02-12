@@ -1,6 +1,6 @@
 ##Motasim Foad Portfolio##
 
-Live preview : https://motasimfoad.com
+Live preview : https://miththilan.me
 
 Technologies used : ReactJS, EmailJS, ParticleJS, Bootstrap
 
