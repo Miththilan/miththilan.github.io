@@ -24,7 +24,7 @@ import {
          </h2>
          <h3>
          <ReactTypingEffect
-           text="Photographer & Editor || Software Engineer ... " //text=["Hello.", "World!"]
+           text="Software Engineer || Photographer & Editor... " 
            className="typical"
            speed="100"
            eraseDelay="500000"
