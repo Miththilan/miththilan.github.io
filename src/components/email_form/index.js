@@ -48,10 +48,10 @@ class Email_Form extends React.Component {
      }
      
      emailjs.send(
-      'gmail',
-      'youtube_template',
+      'service_qk9wc7v',
+      'template_m9n9hkn',
       templateParams,
-      'user_kXChBmVCN0BLHvY8pcehV'
+      'YbggXTK0vRw9QwP0p'
      )
      .then((result) => {
         this.handleShow();
